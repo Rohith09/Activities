@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="color">COLOR SELECTOR</string>
+    <string name="color2">SELECT COLOR</string>
+    <string name="red">RED</string>
+    <string name="yellow">YELLOW</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+    <string name="ok">OK</string>
+</resources>
